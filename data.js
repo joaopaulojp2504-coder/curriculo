@@ -11,7 +11,7 @@ window.CV_DATA = {
   },
   "header": {
     "name": "João Paulo Drago",
-    "nickname": "Jão",
+    "nickname": "João Drago",
     "headline": {
       "en": "Art Director and Brand Designer · Visual identity and Web Design (UX/UI)",
       "pt": "Diretor de Arte e Brand Designer · Identidade visual e Web Design (UX/UI)"
