@@ -192,8 +192,8 @@ window.CV_DATA = {
           "pt": "Diretor de Arte e Brand Designer freelance · parceiro da Stocco Company"
         },
         "meta": {
-          "en": "2021 - Present · Remote",
-          "pt": "2021 - Atual · Remoto"
+          "en": "2024 - Present · Remote",
+          "pt": "2024 - Atual · Remoto"
         },
         "bullets": [
           {
@@ -201,8 +201,8 @@ window.CV_DATA = {
             "pt": "Atendo clientes em projetos de identidade visual, web design (UX/UI), branding e social media, do conceito à entrega."
           },
           {
-            "en": "Standout projects: Agente Método X and Método X (web design), Casa Avvero (visual identity and catalog) and Fábrica de Chefs 2025 (event key visual).",
-            "pt": "Projetos de destaque: Agente Método X e Método X (web design), Casa Avvero (identidade visual e catálogo) e Fábrica de Chefs 2025 (key visual do evento)."
+            "en": "Standout projects: Agente Método X and Método X (web design and branding), Casa Avvero (visual identity and catalog) and many other clients.",
+            "pt": "Projetos de destaque: Agente Método X e Método X (web design e identidade visual), Casa Avvero (identidade visual e catálogo) e muitos outros clientes."
           }
         ],
         "stack": "Figma · Adobe CC · Framer · WordPress/Elementor · After Effects"
@@ -222,8 +222,8 @@ window.CV_DATA = {
             "pt": "Direção de arte para clientes de diversos setores: key visuals, identidades visuais, criativos de campanha e vídeos publicitários com motion e animação."
           },
           {
-            "en": "Lead art director on large events such as Festival de Alegre 2024 and ESTETICON 2024, owning the visual from concept to final execution.",
-            "pt": "Diretor de arte de eventos de grande porte como Festival de Alegre 2024 e ESTETICON 2024, do conceito à execução final."
+            "en": "Lead art director on large events such as Fábrica de Chefs 2024 - 2026, Festival de Alegre 2024 and ESTETICON 2024, owning the visual from concept to final execution.",
+            "pt": "Diretor de arte de eventos de grande porte como Fábrica de Chefs 2024 - 2026, Festival de Alegre 2024 e ESTETICON 2024, do conceito à execução final."
           },
           {
             "en": "Collaborated on high-profile projects such as Miss Universe Espírito Santo and Intimus 360.",
